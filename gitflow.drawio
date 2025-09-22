@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T09:33:43.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yzsYIgu2uJ5CTKYvm_bp" version="20.3.0" type="device"><diagram id="eHYIcJCtPueXlij9-zPl" name="Page-1">5Vzbkto4EP0aHjMlYdDlcQdmkkolqdplqzZ5VLAA7xpEjBggX782vmAsZ0Zba+O2mJdBLRus0+ru062GgTdZH99HYrv6rHwZDobIPw686WA4xCNK43+J5JRKCEKpYBkFfnbRRTALfspMmF+2D3y5u7pQKxXqYHstnKvNRs71lUxEkTpcX7ZQ4fWnbsVSGoLZXISm9K/A16tUyob0Iv8gg+Uq/2RMeDqzFvnF2Up2K+GrQ0nkPQ28SaSUTl+tjxMZJuDluKT3Pf9itniwSG60zQ0/n/iX2VcxQ7//GRxW7z7y/enHu2H6Li8i3GcL/iyCTfbA+pSjEKn9xpfJG6GB93hYBVrOtmKezB5ivceylV6H8QjHLxdBGE5UqKLzvZ4vJFvMY/lOR+ofWZohcya/L+IZcynZ6l5kpOWxJMqW9l6qtdTRKb4kmx1lKGfbjGXDQ0lnmWhVUld+l8h2ybJ43wuQ8YsMy/+AKzVwncoXGapto9BK7I8lrYOWE+oJ0gy0mMDCFo8NcP+QoRQ72ey+HUvmj+rAZcPvHmkI3BGCBa7nGeA+S6H3UbPgEoHQYlEHrkcRmkySO9RGl+SL818zoBeQQgHddBcflF4Ex2a9xRgnu60G88chQueZFjEfD2FhPjZDn4G29GMukA1VpFdqqTYifLpIH6/1cbnmk4pdfaqFv6XWp4zYiL1W1zr6JbI7tY/m8rUFZMhoES2lfu3C7B2T1byqqUiGQgcv18yn+dCIusA5hjc6fc3uPw++JYOHcT6cHsuT01Mx8n9LaGQ83KiNTCXPQbLk8/wN9BeHGkj6y5+7zBlNjYZhzNDl2z5K7LYpbY+9XaJfEOyxGJec0+imzmnUd+eU52pvOicP1uYmIIBv0etYK2YMSzHYUMy0Pa9zm8Sq4nU80rXXYa5vfs9281NYm78mKWtv83ebm1WMYlSTJ9zUKIjpeBwzirGlUeTuCYpRmGWg3keEaqmt+5DAoe3+eSh2u2B+ZQD/k6vSnlIis2rkbFSoGkb3YcEMyc4ZBrGuUAxBGQYxI4NbIdteMSNYijFLR70P2dWzhM5DNnU9i8u9zZu7n8LK4vLnflUxboTrqlF0H65NruReuB7ZRgVYBwrMjAqOOSxbxVBYCQYxTyF6H66r/Radh2sCLsNuevcTW7fEQO1+ahOu+x4ybHVDYfUQEPOYzoEzaGCH0MRMJPBDTfNGYzB30nCHuw4AFMZZf6t+Jncfb/sZWO0AFFw7QJe6gcVO8+cuN02255xgNU/WdU/e1GmxOyBH1LZbgMEiRxyc02o4o7BWDIdV/qbmmVHvWSuBxlqZ6+VvatuvwWCVvzm4Ml8LIcNaNxyUbqiDvTRVztR5pY+Cq/S1YAC2vTTATqbpHfXSVCsgnR/OMTOTww+4PfhvU2iqMqPOC00cXFtM8/6H2fofYKkBd5212isGFmtlNd/k7zszItBalji4alLTu5/b7n5YpSRmUlZnaVE1X+icFvE7aDHO93vvihkmZXXWMKrhonPDwIh1YwjQfkKA2zaWYQTrXJWbZ979r4QzYJVwjO6g4sqt8wpYFVeMXOe81prBCBbp5Q6mfAxa2ytGrp9Sc9ucDyNYjTX8jpK+ql0A4LZ30A5YePzeEdfiyV0KDhzaSSnG4Jhrw8Gh2NcWFgCNuDrYxVS1AAC52x18YbEgPr1LEYonvweOVDUOABzJZKj4ocY++tUwUMW5xYaBeHj54fnzXOnn+72nfwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram id="PhQQ8k0v8poY6UjEcnCf" name="Git-local">
+    <mxGraphModel dx="1572" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zoyYAz8PV4FasNxjg6rz-2" value="MI-PC" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="720" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="zoyYAz8PV4FasNxjg6rz-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder_open;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="56" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zoyYAz8PV4FasNxjg6rz-3" value="WORKING" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zoyYAz8PV4FasNxjg6rz-4" value="STAGING" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zoyYAz8PV4FasNxjg6rz-5" value="COMMIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="170" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
